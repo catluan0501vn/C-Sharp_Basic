@@ -1,0 +1,5 @@
+E:\Study\Demo_UngDung1\SuDungStruct\bin\Debug\SuDungStruct.exe
+E:\Study\Demo_UngDung1\SuDungStruct\bin\Debug\SuDungStruct.pdb
+E:\Study\Demo_UngDung1\SuDungStruct\obj\Debug\SuDungStruct.csproj.CoreCompileInputs.cache
+E:\Study\Demo_UngDung1\SuDungStruct\obj\Debug\SuDungStruct.exe
+E:\Study\Demo_UngDung1\SuDungStruct\obj\Debug\SuDungStruct.pdb

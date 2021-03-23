@@ -1,0 +1,5 @@
+E:\Study\Demo_UngDung1\SuDungVongLapWhile\bin\Debug\SuDungVongLapWhile.exe
+E:\Study\Demo_UngDung1\SuDungVongLapWhile\bin\Debug\SuDungVongLapWhile.pdb
+E:\Study\Demo_UngDung1\SuDungVongLapWhile\obj\Debug\SuDungVongLapWhile.csproj.CoreCompileInputs.cache
+E:\Study\Demo_UngDung1\SuDungVongLapWhile\obj\Debug\SuDungVongLapWhile.exe
+E:\Study\Demo_UngDung1\SuDungVongLapWhile\obj\Debug\SuDungVongLapWhile.pdb

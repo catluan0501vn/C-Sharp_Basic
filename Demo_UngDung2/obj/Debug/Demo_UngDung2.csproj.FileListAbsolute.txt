@@ -1,0 +1,5 @@
+E:\Study\Demo_UngDung1\Demo_UngDung2\obj\Debug\Demo_UngDung2.csproj.CoreCompileInputs.cache
+E:\Study\Demo_UngDung1\Demo_UngDung2\bin\Debug\Demo_UngDung2.exe
+E:\Study\Demo_UngDung1\Demo_UngDung2\bin\Debug\Demo_UngDung2.pdb
+E:\Study\Demo_UngDung1\Demo_UngDung2\obj\Debug\Demo_UngDung2.exe
+E:\Study\Demo_UngDung1\Demo_UngDung2\obj\Debug\Demo_UngDung2.pdb

@@ -1,0 +1,5 @@
+E:\Study\Demo_UngDung1\Demo_SoSanhTimSoNhoNhat\bin\Debug\Demo_SoSanhTimSoNhoNhat.exe
+E:\Study\Demo_UngDung1\Demo_SoSanhTimSoNhoNhat\bin\Debug\Demo_SoSanhTimSoNhoNhat.pdb
+E:\Study\Demo_UngDung1\Demo_SoSanhTimSoNhoNhat\obj\Debug\Demo_SoSanhTimSoNhoNhat.csproj.CoreCompileInputs.cache
+E:\Study\Demo_UngDung1\Demo_SoSanhTimSoNhoNhat\obj\Debug\Demo_SoSanhTimSoNhoNhat.exe
+E:\Study\Demo_UngDung1\Demo_SoSanhTimSoNhoNhat\obj\Debug\Demo_SoSanhTimSoNhoNhat.pdb

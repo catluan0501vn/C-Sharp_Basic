@@ -1,0 +1,6 @@
+E:\Study\Demo_UngDung1\List\bin\Debug\List.exe
+E:\Study\Demo_UngDung1\List\bin\Debug\List.pdb
+E:\Study\Demo_UngDung1\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+E:\Study\Demo_UngDung1\List\obj\Debug\List.exe
+E:\Study\Demo_UngDung1\List\obj\Debug\List.pdb
+E:\Study\Demo_UngDung1\List\obj\Debug\List.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Study\Demo_UngDung1\KiemTraNhapSo\bin\Debug\KiemTraNhapSo.exe
+E:\Study\Demo_UngDung1\KiemTraNhapSo\bin\Debug\KiemTraNhapSo.pdb
+E:\Study\Demo_UngDung1\KiemTraNhapSo\obj\Debug\KiemTraNhapSo.csproj.CoreCompileInputs.cache
+E:\Study\Demo_UngDung1\KiemTraNhapSo\obj\Debug\KiemTraNhapSo.exe
+E:\Study\Demo_UngDung1\KiemTraNhapSo\obj\Debug\KiemTraNhapSo.pdb
+E:\Study\Demo_UngDung1\KiemTraNhapSo\obj\Debug\KiemTraNhapSo.csprojAssemblyReference.cache

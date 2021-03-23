@@ -1,0 +1,5 @@
+E:\Study\Demo_UngDung1\VongLap\bin\Debug\VongLap.exe
+E:\Study\Demo_UngDung1\VongLap\bin\Debug\VongLap.pdb
+E:\Study\Demo_UngDung1\VongLap\obj\Debug\VongLapFor.csproj.CoreCompileInputs.cache
+E:\Study\Demo_UngDung1\VongLap\obj\Debug\VongLap.exe
+E:\Study\Demo_UngDung1\VongLap\obj\Debug\VongLap.pdb

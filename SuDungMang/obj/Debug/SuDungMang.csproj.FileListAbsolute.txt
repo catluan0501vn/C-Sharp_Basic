@@ -1,0 +1,6 @@
+E:\Study\Demo_UngDung1\SuDungMang\bin\Debug\SuDungMang.exe
+E:\Study\Demo_UngDung1\SuDungMang\bin\Debug\SuDungMang.pdb
+E:\Study\Demo_UngDung1\SuDungMang\obj\Debug\SuDungMang.csproj.CoreCompileInputs.cache
+E:\Study\Demo_UngDung1\SuDungMang\obj\Debug\SuDungMang.exe
+E:\Study\Demo_UngDung1\SuDungMang\obj\Debug\SuDungMang.pdb
+E:\Study\Demo_UngDung1\SuDungMang\obj\Debug\SuDungMang.csprojAssemblyReference.cache

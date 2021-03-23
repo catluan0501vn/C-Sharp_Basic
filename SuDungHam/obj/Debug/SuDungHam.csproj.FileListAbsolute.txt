@@ -1,0 +1,5 @@
+E:\Study\Demo_UngDung1\SuDungHam\bin\Debug\SuDungHam.exe
+E:\Study\Demo_UngDung1\SuDungHam\bin\Debug\SuDungHam.pdb
+E:\Study\Demo_UngDung1\SuDungHam\obj\Debug\SuDungHam.csproj.CoreCompileInputs.cache
+E:\Study\Demo_UngDung1\SuDungHam\obj\Debug\SuDungHam.exe
+E:\Study\Demo_UngDung1\SuDungHam\obj\Debug\SuDungHam.pdb

@@ -1,0 +1,6 @@
+E:\Study\Demo_UngDung1\Demo_UngDung3\bin\Debug\Demo_UngDung3.exe
+E:\Study\Demo_UngDung1\Demo_UngDung3\bin\Debug\Demo_UngDung3.pdb
+E:\Study\Demo_UngDung1\Demo_UngDung3\obj\Debug\Demo_UngDung3.csprojAssemblyReference.cache
+E:\Study\Demo_UngDung1\Demo_UngDung3\obj\Debug\Demo_UngDung3.csproj.CoreCompileInputs.cache
+E:\Study\Demo_UngDung1\Demo_UngDung3\obj\Debug\Demo_UngDung3.exe
+E:\Study\Demo_UngDung1\Demo_UngDung3\obj\Debug\Demo_UngDung3.pdb

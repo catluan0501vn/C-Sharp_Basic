@@ -1,0 +1,9 @@
+E:\Study\Demo_UngDung1\KiemTra_ĐTB\bin\Debug\KiemTra_ĐTB.exe
+E:\Study\Demo_UngDung1\KiemTra_ĐTB\bin\Debug\KiemTra_ĐTB.pdb
+E:\Study\Demo_UngDung1\KiemTra_ĐTB\obj\Debug\KiemTra_ĐTB.csproj.CoreCompileInputs.cache
+E:\Study\Demo_UngDung1\KiemTra_ĐTB\obj\Debug\KiemTra_ĐTB.exe
+E:\Study\Demo_UngDung1\KiemTra_ĐTB\obj\Debug\KiemTra_ĐTB.pdb
+E:\Study\Demo_UngDung1\KiemTra_ĐTB\bin\Debug\KiemTra_ĐTB.exe.manifest
+E:\Study\Demo_UngDung1\KiemTra_ĐTB\bin\Debug\KiemTra_ĐTB.application
+E:\Study\Demo_UngDung1\KiemTra_ĐTB\obj\Debug\KiemTra_ĐTB.exe.manifest
+E:\Study\Demo_UngDung1\KiemTra_ĐTB\obj\Debug\KiemTra_ĐTB.application

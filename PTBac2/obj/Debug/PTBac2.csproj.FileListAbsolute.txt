@@ -1,0 +1,5 @@
+E:\Study\Demo_UngDung1\PTBac2\bin\Debug\PTBac2.exe
+E:\Study\Demo_UngDung1\PTBac2\bin\Debug\PTBac2.pdb
+E:\Study\Demo_UngDung1\PTBac2\obj\Debug\PTBac2.csproj.CoreCompileInputs.cache
+E:\Study\Demo_UngDung1\PTBac2\obj\Debug\PTBac2.exe
+E:\Study\Demo_UngDung1\PTBac2\obj\Debug\PTBac2.pdb
