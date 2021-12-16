@@ -1,0 +1,14 @@
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\bin\Debug\Demo_SoSanhDaoNguocSo.exe.config
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\bin\Debug\Demo_SoSanhDaoNguocSo.exe
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\bin\Debug\Demo_SoSanhDaoNguocSo.pdb
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\bin\Debug\Newtonsoft.Json.dll
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\bin\Debug\SolrNet.dll
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\bin\Debug\System.ValueTuple.dll
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\bin\Debug\Newtonsoft.Json.xml
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\bin\Debug\SolrNet.xml
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\bin\Debug\System.ValueTuple.xml
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\obj\Debug\Demo_SoSanhDaoNguocSo.csprojAssemblyReference.cache
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\obj\Debug\Demo_SoSanhDaoNguocSo.csproj.CoreCompileInputs.cache
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\obj\Debug\Demo_SoSanhDaoNguocSo.csproj.CopyComplete
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\obj\Debug\Demo_SoSanhDaoNguocSo.exe
+E:\Study\C# Basic\SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\Demo_SoSanhDaoNguocSo\obj\Debug\Demo_SoSanhDaoNguocSo.pdb

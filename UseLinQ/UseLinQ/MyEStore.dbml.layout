@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MyEStore">
+  <DataContextMoniker Name="/MyEStoreDataContext" />
+  <nestedChildShapes>
+    <classShape Id="4359cb3c-65cb-4bf3-832c-699d6f5bbe37" absoluteBounds="0.75, 1.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/MyEStoreDataContext/Loai" />
+      <nestedChildShapes>
+        <elementListCompartment Id="804f3f27-689b-4e23-a75d-7b5d99993e56" absoluteBounds="0.765, 2.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="18487549-a01f-4975-9148-96fcf0fb201b" absoluteBounds="4, 1.625, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/MyEStoreDataContext/HangHoa" />
+      <nestedChildShapes>
+        <elementListCompartment Id="28a6e9ce-1a47-46fc-9b92-1510a48500aa" absoluteBounds="4.0150000000000006, 2.085, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f1aa2aa8-a575-47ce-87c6-ac138850b5ab" absoluteBounds="0.75, 5.25, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/MyEStoreDataContext/NhaCungCap" />
+      <nestedChildShapes>
+        <elementListCompartment Id="441d79a0-902a-4182-88fb-984ea49657e3" absoluteBounds="0.765, 5.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.41429768880208); (4 : 2.41429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MyEStoreDataContext/Loai/Loai_HangHoa" />
+      <nodes>
+        <classShapeMoniker Id="4359cb3c-65cb-4bf3-832c-699d6f5bbe37" />
+        <classShapeMoniker Id="18487549-a01f-4975-9148-96fcf0fb201b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.42390055338542); (5 : 6.42390055338542); (5 : 4.54970540364583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MyEStoreDataContext/NhaCungCap/NhaCungCap_HangHoa" />
+      <nodes>
+        <classShapeMoniker Id="f1aa2aa8-a575-47ce-87c6-ac138850b5ab" />
+        <classShapeMoniker Id="18487549-a01f-4975-9148-96fcf0fb201b" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

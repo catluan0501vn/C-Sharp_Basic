@@ -1,0 +1,15 @@
+E:\Study\Demo_WinForm\Demo_Login\bin\Debug\Demo_Login.exe
+E:\Study\Demo_WinForm\Demo_Login\bin\Debug\Demo_Login.pdb
+E:\Study\Demo_WinForm\Demo_Login\obj\Debug\Demo_Login.csprojAssemblyReference.cache
+E:\Study\Demo_WinForm\Demo_Login\obj\Debug\Demo_Login.Properties.Resources.resources
+E:\Study\Demo_WinForm\Demo_Login\obj\Debug\Demo_Login.csproj.GenerateResource.cache
+E:\Study\Demo_WinForm\Demo_Login\obj\Debug\Demo_Login.csproj.CoreCompileInputs.cache
+E:\Study\Demo_WinForm\Demo_Login\obj\Debug\Demo_Login.exe
+E:\Study\Demo_WinForm\Demo_Login\obj\Debug\Demo_Login.pdb
+E:\Study\Demo_WinForm\Demo_Login\obj\Debug\Demo_Login.LoginForm.resources
+E:\Study\Demo_WinForm\Demo_Login\obj\Debug\Demo_Login.FormHangHoa.resources
+E:\Study\Demo_WinForm\Demo_Login\bin\Debug\QLHH.mdf
+E:\Study\Demo_WinForm\Demo_Login\bin\Debug\QLHH_log.ldf
+E:\Study\Demo_WinForm\Demo_Login\obj\Debug\Demo_Login.FormDsHangHoa.resources
+E:\Study\Demo_WinForm\Demo_Login\bin\Debug\Demo_Login.exe.config
+E:\Study\Demo_WinForm\Demo_Login\obj\Debug\Demo_Login.FormThemLoaiHangHoa.resources

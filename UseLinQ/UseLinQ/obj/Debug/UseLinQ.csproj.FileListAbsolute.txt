@@ -1,0 +1,24 @@
+E:\Study\UseLinQ\UseLinQ\bin\Debug\UseLinQ.exe
+E:\Study\UseLinQ\UseLinQ\bin\Debug\UseLinQ.pdb
+E:\Study\UseLinQ\UseLinQ\obj\Debug\UseLinQ.Properties.Resources.resources
+E:\Study\UseLinQ\UseLinQ\obj\Debug\UseLinQ.csproj.GenerateResource.cache
+E:\Study\UseLinQ\UseLinQ\obj\Debug\UseLinQ.csproj.CoreCompileInputs.cache
+E:\Study\UseLinQ\UseLinQ\obj\Debug\UseLinQ.exe
+E:\Study\UseLinQ\UseLinQ\obj\Debug\UseLinQ.pdb
+E:\Study\UseLinQ\UseLinQ\bin\Debug\UseLinQ.exe.config
+E:\Study\UseLinQ\UseLinQ\obj\Debug\UseLinQ.Form1.resources
+E:\Study\UseLinQ\UseLinQ\obj\Debug\UseLinQ.FormThem.resources
+E:\Study\UseLinQ\UseLinQ\obj\Debug\UseLinQ.FormSua.resources
+E:\Study\UseLinQ\UseLinQ\obj\Debug\UseLinQ.csprojAssemblyReference.cache
+E:\Study\C# Basic\UseLinQ\UseLinQ\bin\Debug\UseLinQ.exe.config
+E:\Study\C# Basic\UseLinQ\UseLinQ\bin\Debug\UseLinQ.exe
+E:\Study\C# Basic\UseLinQ\UseLinQ\bin\Debug\UseLinQ.pdb
+E:\Study\C# Basic\UseLinQ\UseLinQ\obj\Debug\UseLinQ.csprojAssemblyReference.cache
+E:\Study\C# Basic\UseLinQ\UseLinQ\obj\Debug\UseLinQ.Form1.resources
+E:\Study\C# Basic\UseLinQ\UseLinQ\obj\Debug\UseLinQ.FormSua.resources
+E:\Study\C# Basic\UseLinQ\UseLinQ\obj\Debug\UseLinQ.FormThem.resources
+E:\Study\C# Basic\UseLinQ\UseLinQ\obj\Debug\UseLinQ.Properties.Resources.resources
+E:\Study\C# Basic\UseLinQ\UseLinQ\obj\Debug\UseLinQ.csproj.GenerateResource.cache
+E:\Study\C# Basic\UseLinQ\UseLinQ\obj\Debug\UseLinQ.csproj.CoreCompileInputs.cache
+E:\Study\C# Basic\UseLinQ\UseLinQ\obj\Debug\UseLinQ.exe
+E:\Study\C# Basic\UseLinQ\UseLinQ\obj\Debug\UseLinQ.pdb
